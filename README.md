@@ -12,7 +12,7 @@ Werkstattpraxis. [Link website](https://incom.org/workspace/5859)
 
 ## Prerequisite  
 
-The initial information about our new project was a TED talk our teacher showed us (see link below). As a result of our project we had to create a time lapse video of a growing mold, analyze it via OpenCv and create a visual output.
+The initial information about our new project was a TED talk our teacher showed us (see link below). As a result of our project we had to create a time lapse video of a growing mold, analyze it via OpenCv and generate a visual output.
 
 [![](images/2015_09_22_BIlder_Github_slime_mold_1920x1080.png)](http://www.ted.com/talks/heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1)
 
