@@ -142,7 +142,7 @@ Primarily we used python for the recording script. Depending on the time setting
 
 #### Capturing in low light description and code
 
-[Raspberry Pi Camer in low light description](http://picamera.readthedocs.org/en/latest/recipes1.html#capturing-in-low-light)
+[Raspberry Pi camera in low light description](http://picamera.readthedocs.org/en/latest/recipes1.html#capturing-in-low-light)
 
 
     GPIO.output(11,GPIO.HIGH)
@@ -387,17 +387,22 @@ and create a path to your script you want to run repeatedly.
 
 Once you set up the cronjob, the Raspberry Pi will execute the recording script every minute.
 
-#### P5ColorThief script for
+#### P5ColorThief library
 
 To run the script download the P5ColorThief library from this source and install the library in Processing:
 
-    https://github.com/fabiantheblind/P5ColorThief
+[Link P5ColorThief library ](https://github.com/fabiantheblind/P5ColorThief)
 
-Download the following tracking code and store it anywhere on you computer:
+#### P5ColorThief tracking script
+
+Download the following tracking code and the data folder and store it anywhere on you computer:
+
+[Link P5ColorThief tracking code ](https://github.com/back280/IO-SoSe-2015-fox-moulder/tree/master/code/P5ColorThiefVIdeo/sketch_2015_06_01_P5ColorThiefVideo_Slime_mold)
+
 
 ## Usage  
 
-Now open the code in Processing and just run the script. Make sure you have a fitting video in your folder to run.  
+Now open the code in Processing and just run the script. Make sure you have a fitting video in your data folder.  
 
 
 ## Realted Works  
