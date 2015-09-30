@@ -120,7 +120,7 @@ After the first day of taking photos it became obvious that the mold seemed to b
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108023.png)
 
-![](images/2015_09_22_BIlder_Github_slime_mold_1920x108024.png)
+![](images/beauty-shot-1920x1080.png)
 _Fox Molder finally glows in the dark_
 
 Everything turned out the way I wanted to be, except the fact that the culture medium started to dry out and Fox started to going mouldy after five days of recording. Therefore I wasn´t able to answer the question: what will happen when the branches withe their different colors clashes.
