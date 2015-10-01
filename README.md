@@ -16,7 +16,7 @@ The initial information about our new project was a TED talk our teacher showed 
 
 [![](images/2015_09_22_BIlder_Github_slime_mold_1920x1080.png)](http://www.ted.com/talks/heather_barnett_what_humans_can_learn_from_semi_intelligent_slime_1)
 
-We learned that slime molds, or physarum polycephalum, shows some kind of low level intelligent behavior by connecting different feeding grounds through the shortest distance with his own body. Once placed in an area he starts to grow quickly searching for food. He likes oat the most, prefers dark places to live and rises about one cm an hour under best conditions. At first we were given some offshot of a living physarum polycephalum by our teacher.
+We learned that slime molds, or physarum polycephalum, shows some kind of low level intelligent behavior by connecting different feeding grounds through the shortest distance with his own body. Once placed in an area he starts to grow quickly searching for food. He likes oat the most, prefers dark places to life and rises about one cm an hour under best conditions. At first we were given some offshot of a living physarum polycephalum by our teacher.
 
 #### The first challenge was to:
 
