@@ -26,11 +26,11 @@ We learned that slime molds, or physarum polycephalum, shows some kind of low le
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10802.png)
 
-I named my organism after special agent Fox Molder one of the main characters of the x-files series. Cunning as a fox, physarum polycephalum, searches his ground for food looking for intelligent solutions.
+I named my organism after special agent Fox Mulder one of the main characters of the x-files series. Cunning as a fox, physarum polycephalum, searches his ground for food looking for intelligent solutions.
 
-I had a lot of ideas but primarily I was interested if Fox Moulder is somehow adaptive and able to learn. So I sketched out my first experiments. Here are the first approaches
+I had a lot of ideas but primarily I was interested if Fox Moulder is somehow adaptive and able to learn. So I sketched out my first experiments. Here are the first approaches.
 
-#### Visualise movement with uv light by adding fluorescent pigments to his food
+#### Visualize movement with uv light by adding fluorescent pigments to his food
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10803.png)
 
@@ -46,43 +46,44 @@ I had a lot of ideas but primarily I was interested if Fox Moulder is somehow ad
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10806.png)
 
-Another idea was that it might be possible to let him grow in specific shape, pattern or direction by influencing his culture medium. So I came up with the idea to carve the culture medium with a scalpel to let him grow in a specific shape, e.g his name or in a straight line towards his feeding ground.
+Another idea was that it might be possible to let him grow in specific shapes, pattern or directions by influencing his culture medium. So I came up with the idea to carve the culture medium with a scalpel to let him grow in a specific shape, e.g his name or in a straight line towards his feeding ground.
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10807.png)
 
-Due to the annoying fact that carving the culture medium was visible I was wondering if Fox Moulder likes or dislikes certain fluids or substances, e.g. disinfectant spray in order to let him grow in a specific direction or shape. The idea was to create a paper stencil and spray the culture medium to let him grow in certain boundaries.   
+Due to the annoying fact, that carving the culture medium was visible, I was wondering if Fox Moulder likes or dislikes certain fluids or substances, e.g. disinfectant spray in order to let him grow in a specific direction or shape. The idea was to create a paper stencil and spray the culture medium to let him grow in certain boundaries.   
 
 #### Make a decision
 
-At first glance I was fascinated by the idea that Fox Moulder is somehow able to anticipate or to learn where he gets food, when changing the feeding ground. But after a second look it became clear to me that these experiments might be to complex and could easily fail.
+At first glance I was fascinated by the idea that Fox Moulder is somehow able to anticipate or to learn where he gets food, when changing his feeding ground. But after a second look it became clear to me that these experiments might be to complex and could easily fail.
 
-So after an intensive web study for more inspiration I started to concentrate on the first experiment. Feeding Fox moulder with fluorescent pigments added to his porridge to visualize his directed movement by letting him glow under uv light. Another question was: What will happen when two different colored mould branches meet each other? Will they mix their color into a new one? And how will the spray work to let him grow in specific boundaries?
+So after an intensive web study for more inspiration I started to concentrate on the first experiment. Feeding Fox Moulder with fluorescent pigments added to his porridge to visualize his directed movement by letting him glow under uv light. Another question was: What will happen when different colored mould branches meet each other? Will they mix their color into a new one? And how will the spray work to let him grow in specific boundaries?
 
 #### Set up the Raspberry Pi
 
 In order to create the time lapse we had to use the Raspberry Pi 2 microcomputer with a camera attached. Unfortunately the Raspberry Pi camera had a fixed focus lens (By the way here is a tutorial which explains how to loosen the lens to change the focus: [Raspberry Pi camera hack](https://www.youtube.com/watch?v=u6VhRVH3Z6Y). So searching for a box with the fitting dimension (width, especially height and depth) was the first step to get the right distance for the Raspberry Pi camera. I decided to make a box on my own to have the best focal distance. Here is a picture of my recording device called the Fox Lab.
 
+#### Fox Lab
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10808.png)
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x10809.png)
 
 Inside the box I attached two uv LED stripes on each side to illuminate the scene. The following picture shows the Raspberry Pi2 setup with the camera and the LED stripes attached on a relay to control the illumination time.    
 
+#### Fritzing sketch
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108010.png)
 
 #### First experimental preparation
 
-![](images/2015_09_22_BIlder_Github_slime_mold_1920x108011.png)
+Before I started to transfer my first experiment I tried to see if Fox Moulder is generally able to absorb the pigment colored food. So I gave him a large portion of magenta colored porridge. I was totally happy to see that even under the uv light he showed the desired results.     
 
-Before I started to transfer my first experiment I tried to see if Fox Moulder is generally able to absorb the pigment colored food . So I gave him a large portion of a magenta colored porridge mix. I was totally happy to see that even under the uv light he showed the desired results.     
-
+#### Forerun results
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108012.png)
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108013.png)
 
 #### Possible visual output
 
-Meanwhile I made some sketches for the visual output we were asked for
+Meanwhile I made some sketches for the visual output we were asked for.
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x1080_visuals.png)
 
@@ -90,9 +91,13 @@ Meanwhile I made some sketches for the visual output we were asked for
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x1080_visuals3.png)
 
-Finally I prepared the the first disinfectant sprayed petri dish and captured him under the uv light. But unfortunately the mold did not behave the way he did in the forerun. Maybe the mold was too weak or too undersized. Another fact was that the spray also did not seems to work properly.    
+#### First experimantal run
+Finally I prepared the the first disinfectant sprayed petri dish and captured him under the uv light. But unfortunately the mold did not behave the way he did in the forerun. Maybe the mold was too weak or too undersized. Another fact was that the spray also did not seems to work properly.
+
+![](images/2015_09_22_BIlder_Github_slime_mold_1920x108011.png)    
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108014.png)
+_Paper stencil_
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108015.png)
 
@@ -100,7 +105,8 @@ Finally I prepared the the first disinfectant sprayed petri dish and captured hi
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108017.png)
 
-So I started to set up another experiment, where I used square black colored aga-aga cubes instead of spray to let him grow in a checkerboard pattern. After a few days and several photos I realized that this is not going to work. The mold did not want spread. Maybe he did not like the self made black colored culture medium or maybe the uv light I used to light up the scene was unsuitable.         
+#### Second experiment
+So I started to set up another experiment, where I used square black colored aga-aga cubes instead of spray, to let him grow in a checkerboard pattern. After a few days and several photos I realized that this is not going to work. The mold did not want spread. Maybe he did not like the self made black colored culture medium or maybe the uv light I used to light up the scene was unsuitable.         
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x108018.png)
 
@@ -363,7 +369,7 @@ Instead of using OpenCV I accomplished the final task with a script by Fabian Mo
     }
     -->
 
-Here is a screenshot of the running script:
+Here is a screenshot of the running script.
 
 ![](images/2015_09_22_BIlder_Github_slime_mold_1920x1080_video_.png)
 
@@ -409,7 +415,7 @@ Now open the code in Processing and just run the script. Make sure you have a fi
 
 Here are my latest projects.
 
-- [Algorythm project](https://github.com/back280/IO-SoSe-2015-algorythm)  
+- [Algorythm project](https://github.com/back280/IO-SoSe-2015-algorithm)  
 
 - [Flip Board](https://github.com/back280/IO-SoSe-2015-flip-board)
 
